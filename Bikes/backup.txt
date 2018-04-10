@@ -1,0 +1,48 @@
+<div class="search-container">
+	<input type="txtSearch" placeholder="Buscar.." name="search">
+	<button id="btnSearch" type="submit"><i class="fa fa-search"></i></button>			
+</div>
+<div id="bikeContainer" class="bikeContainer">
+	<div class="bikeBox well">
+		<h4>Trek Stache 7</h4>
+		<img src="img/b1.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Trek #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>
+	<div class="bikeBox well">
+		<h4>Cannondale Jekyll 2</h4>
+		<img src="img/b2.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Cannondale #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>
+	<div class="bikeBox well">
+		<h4>Cannondale Scalpel-SI Race</h4>
+		<img src="img/b3.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Cannondale #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>	
+	<div class="bikeBox well">
+	<h4>Giant Trance 3</h4>
+		<img src="img/b4.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Giant #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>
+	<div class="bikeBox well">
+		<h4>Giant Trance X</h4>
+		<img src="img/b5.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Giant #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>	
+	<div class="bikeBox well">
+		<h4>Trek Fuel EX 8</h4>
+		<img src="img/b6.jpg"/>
+		<p>Precio: $999.999</p>
+		<p>#Bike #Wommen #2018</p>
+		<button type="button" class="btn btn-danger">Comprar</button>
+	</div>
+</div>	
