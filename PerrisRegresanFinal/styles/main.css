@@ -1,0 +1,44 @@
+img, embed, video, object {
+	max-width: 100%;
+}
+
+body {
+	font-size: 16px;
+}
+
+header img {
+	width: 100px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.dogsContainer {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.dogContainer {
+	width: 300px;
+	text-align: center;
+	margin: 10px;
+}
+
+@media screen and (min-width: 700px) {
+	.dogContainer {
+		width: 200px;
+		text-align: center;
+		margin: 10px;
+	}
+}
+
+@media screen and (min-width:1000px) {
+	.dogContainer {
+		width: 250px;
+		text-align: center;
+		margin: 10px;
+	}
+}
+
